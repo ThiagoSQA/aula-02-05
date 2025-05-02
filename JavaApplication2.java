@@ -1,4 +1,4 @@
-package javaapplication1;//Trabalho de Thiago Sousa Quadros de Andrade e Fernanda de Almeida Pita
+package javaapplication1;//Questão 5 Trabalho de Thiago Sousa Quadros de Andrade e Fernanda de Almeida Pita
 import java.util.Stack;
 import java.util.Scanner;
 import java.util.LinkedList;//Tranalho de Thiago Sousa Quadros de Andrade e Fernanda de Almeida Pita
